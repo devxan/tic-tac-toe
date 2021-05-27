@@ -1,11 +1,12 @@
 
 <a name="top"></a>
-I challenge you to a game of Tic-Tac-Toe. 
-Give this page a few seconds to load all the emojis and then click the topmost box to start playing.
-
+I challenge you to a game of Tic-Tac-Toe! 
 Xs go first, click one of the nine boxes to make your move.
 
+Give this page a few seconds to load all the emojis and then click the topmost box to start playing.
 _If for some reason the buttons are not clickable, try reloading the page. Sometimes GitHub can't handle all the emojis._
+
+This was originally made by [@kylepls](https://github.com/kylepls/) for their GitHub profile. I really liked it and decided to make a repository specifically for playing this impossible-to-beat game of tic-tac-toe!
 
 [Take me to the bottom](#bottom)
 
